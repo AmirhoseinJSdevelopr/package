@@ -1,0 +1,13 @@
+{
+    "name": "amirhosein_29987/interface_dumplicate",
+    "description": "This package is the best of packages in the interfaces.",
+    "type": "library",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Amirhosein29987\\InterfaceDumplicate\\": "src/"
+        }
+    }
+}
